@@ -24,6 +24,7 @@ MC(number, seed, graphs): Main simulation function.
 IMF(m): Calculates star probabilities using Kroupa IMF (Kroupa, 2001).
 BH_Mass(m) / Neutron_mass(m): Calculates black hole/neutron star masses (Raithel et al., 2018).
 wd_mass(m): Calculates white dwarf masses (Kalirai et al., 2008).
+
 Visualizations:
 
 Mass and age histograms.
