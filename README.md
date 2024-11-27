@@ -45,7 +45,9 @@ python3 MC_AM.py
 b) Jupyter: 
 
 import MC_AM as MC_AM
+
 importlib.reload(MC_AM)
+
 Data = MC_AM.MC(int(1e7), 50, True)
 
 
