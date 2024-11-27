@@ -12,15 +12,18 @@ Customizable:
 Number of stars (number).
 Random seed (seed).
 Optional visual outputs (graphs).
+
 Requirements:
-python 3.7
+
+Python 3.7
 
 result = MC(number=10000, seed=42, graphs=True)
-if running in jupyter comment the lines below line 673.
+
 
 Key Functions:
-
+[if running in jupyter comment the lines below line 673]
 MC(number, seed, graphs): Main simulation function.
+implementation example: result = MC(number=10000, seed=42, graphs=True)
 IMF(m): Calculates star probabilities using Kroupa IMF (Kroupa, 2001).
 BH_Mass(m) / Neutron_mass(m): Calculates black hole/neutron star masses (Raithel et al., 2018).
 wd_mass(m): Calculates white dwarf masses (Kalirai et al., 2008).
