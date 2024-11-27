@@ -10,8 +10,11 @@ Assigns stellar remnants using Initial-Final Mass Relationships (IFMR).
 # Customizable:
 
 Number of stars (number).
+
 Random seed (seed).
+
 Optional visual outputs (graphs).
+
 
 # Requirements:
 
