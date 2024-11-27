@@ -21,7 +21,9 @@ result = MC(number=10000, seed=42, graphs=True)
 
 
 Key Functions:
-[if running in jupyter comment the lines below line 673]
+
+(if running in jupyter comment the lines below line 673)
+
 MC(number, seed, graphs): Main simulation function.
 implementation example: result = MC(number=10000, seed=42, graphs=True)
 IMF(m): Calculates star probabilities using Kroupa IMF (Kroupa, 2001).
