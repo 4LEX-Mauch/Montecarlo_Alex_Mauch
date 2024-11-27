@@ -19,6 +19,8 @@ Requirements:
 python 3.7
 
 result = MC(number=10000, seed=42, graphs=True)
+
+
 Visualizations:
 
 Mass and age histograms.
