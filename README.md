@@ -1,7 +1,7 @@
 This repository contains a Python implementation of a Monte Carlo simulation to study stellar evolution in the Milky Way. 
 The code generates synthetic star populations, calculates their final states (main sequence stars, white dwarfs, neutron stars, black holes), and visualizes key insights.
 
-Features
+
 # Monte Carlo Simulation:
 
 Generates stars based on the Kroupa Initial Mass Function (IMF).
