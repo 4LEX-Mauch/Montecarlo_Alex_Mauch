@@ -42,6 +42,7 @@ a) Terminal:
 
 python3 MC_AM.py
 
+
 b) Jupyter: 
 
 import MC_AM as MC_AM
