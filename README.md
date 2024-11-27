@@ -38,9 +38,16 @@ wd_mass(m): Calculates white dwarf masses (Kalirai et al., 2008).
 
 # Implementation example
 
-a) Terminal: python3 MC.py
+a) Terminal: 
 
-b) Jupyter: result = MC(number=10000, seed=42, graphs=True)
+python3 MC_AM.py
+
+b) Jupyter: 
+
+import MC_AM as MC_AM
+importlib.reload(MC_AM)
+Data = MC_AM.MC(int(1e7), 50, True)
+
 
 # Visualizations:
 
