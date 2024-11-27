@@ -29,7 +29,11 @@ libraries: numpy, pandas, matplotlib
 
 MC(number, seed, graphs): Main simulation function.
 
-implementation example: result = MC(number=10000, seed=42, graphs=True)
+implementation example: 
+
+a) Terminal: python3 MC.py
+
+b) Jupyter: result = MC(number=10000, seed=42, graphs=True)
 
 IMF(m): Calculates star probabilities using Kroupa IMF (Kroupa, 2001).
 
